@@ -77,7 +77,7 @@ TRANSLATIONS = {
             "*Kullanim amaci:* Ucus durumu bildirimleri gonderebilmek\n"
             "*Saklama suresi:* Ucus takipten cikarilana kadar\n"
             "*Ucuncu tarafla paylasim:* Hayir\n"
-            "*Veri kaynagi:* OpenSky Network (ODbL lisansi)"
+            "*Veri kaynaklari:* AirLabs, AviationStack, OpenFlights"
         ),
     },
     "en": {
@@ -158,7 +158,7 @@ TRANSLATIONS = {
             "*Purpose:* Send flight status notifications\n"
             "*Retention:* Until the flight is removed from tracking\n"
             "*Third-party sharing:* None\n"
-            "*Data source:* OpenSky Network (ODbL license)"
+            "*Data sources:* AirLabs, AviationStack, OpenFlights"
         ),
     },
 }
